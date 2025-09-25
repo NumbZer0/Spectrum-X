@@ -22,25 +22,25 @@ Window:ToggleTransparency(true)
 
 local GameScripts = {
     {
-        Name = "Legends Of Speed",
-        Description = "Spectrum X - Kaitun, Easy Gems, Glitch Pets and much more...",
+        Name = "Fisch",
+        Description = "Spectrum X - Auto Fish, Zone Fishing, Auto Sell, Auto Quest, Auto SecondSea and much more...",
         Icon = "zap",
         Color = Color3.fromRGB(255, 165, 0),
-        Loadstring = "loadstring(game:HttpGet('https://raw.githubusercontent.com/iXSpectre/Legends-Of-Speed/refs/heads/main/SpectrumX.lua'))()"
+        Loadstring = "loadstring(game:HttpGet('https://raw.githubusercontent.com/NumbZer0/Fisch/refs/heads/main/SpectrumX.lua'))()"
     },
     {
         Name = "Volleyball Legends", 
         Description = "Spectrum X - Ball Hitbox, Premonition, Instant Rolls",
         Icon = "volleyball",
         Color = Color3.fromRGB(0, 255, 255),
-        Loadstring = "loadstring(game:HttpGet('https://raw.githubusercontent.com/iXSpectre/Volleyball-Legends/refs/heads/main/SpectrumX.lua'))()"
+        Loadstring = "loadstring(game:HttpGet('https://raw.githubusercontent.com/NumbZer0/Spectrum-X/refs/heads/main/VolleyBallLegends.lua'))()"
     },
     {
         Name = "Universal Aimbot",
         Description = "Spectrum Aim - Aimbot Universal",
         Icon = "crosshair",
         Color = Color3.fromRGB(255, 0, 0),
-        Loadstring = "loadstring(game:HttpGet('https://raw.githubusercontent.com/iXSpectre/Spectrum-Aim/refs/heads/main/SpectrumAim.lua'))()"
+        Loadstring = "loadstring(game:HttpGet('https://raw.githubusercontent.com/NumbZer0/Spectrum-X/refs/heads/main/SpectrumAim.lua'))()"
     }
 }
 
