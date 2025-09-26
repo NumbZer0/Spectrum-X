@@ -26,7 +26,7 @@ local GameScripts = {
         Description = "Spectrum X - Auto Fish, Zone Fishing, Auto Sell, Auto Quest, Auto SecondSea and much more...",
         Icon = "zap",
         Color = Color3.fromRGB(255, 165, 0),
-        Loadstring = "loadstring(game:HttpGet('https://raw.githubusercontent.com/NumbZer0/Fisch/refs/heads/main/SpectrumX.lua'))()"
+        Loadstring = "loadstring(game:HttpGet('https://raw.githubusercontent.com/NumbZer0/Spectrum-X/refs/heads/main/FischBeta.lua'))()"
     },
     {
         Name = "Volleyball Legends", 
